@@ -1,0 +1,8 @@
+prefix=/home/sun/climb_ws/src/climb/devel
+
+Name: climb
+Description: Description of climb
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sun/climb_ws/src/climb/devel/lib 
+Requires: 
