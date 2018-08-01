@@ -24,6 +24,7 @@ CMakeFiles/climb_up.dir/src/climb_up.cpp.o
  /opt/ros/indigo/include/ros/message.h
  /opt/ros/indigo/include/ros/message_event.h
  /opt/ros/indigo/include/ros/message_forward.h
+ /opt/ros/indigo/include/ros/message_operations.h
  /opt/ros/indigo/include/ros/message_traits.h
  /opt/ros/indigo/include/ros/names.h
  /opt/ros/indigo/include/ros/node_handle.h
@@ -59,3 +60,4 @@ CMakeFiles/climb_up.dir/src/climb_up.cpp.o
  /opt/ros/indigo/include/ros/wall_timer.h
  /opt/ros/indigo/include/ros/wall_timer_options.h
  /opt/ros/indigo/include/rosconsole/macros_generated.h
+ /opt/ros/indigo/include/std_msgs/Float64.h

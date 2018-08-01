@@ -204,3 +204,7 @@ add_library( climb_up SHARED src/climb_up.cpp)
 
 add_executable( climb_test src/test.cpp )
 target_link_libraries( climb_test ${catkin_LIBRARIES} climb_up )
+
+
+#  add_executable( test_calculate src/test_calculate.cpp )
+#  target_link_libraries( test_calculate ${catkin_LIBRARIES} climb_up )
